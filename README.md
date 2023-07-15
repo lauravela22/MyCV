@@ -1,1 +1,1 @@
-# MyCVProject
+# my-resume
